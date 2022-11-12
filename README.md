@@ -21,7 +21,10 @@ na barra de navegação e o efeito de marcar as abas que estão selecionadas.
 
 Exemplos upgrade:
 
+![Chale-hotel-github](https://user-images.githubusercontent.com/89278014/201485046-6977cb3f-94f9-4307-adc3-8c1b99f14eb8.gif)
 
 
 Upgrade barra de navegação:
+
+![Chale-hotel-github2](https://user-images.githubusercontent.com/89278014/201484334-b9743c76-2815-44d4-8055-992fef482c72.gif)
 
