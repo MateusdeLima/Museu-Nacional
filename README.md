@@ -21,7 +21,11 @@ na barra de navegação e o efeito de marcar as abas que estão selecionadas.
 
 Exemplos upgrade:
 
+![Alt text](../../../../../C:/Users/Mateus%20de%20Lima%20Silva/Desktop/Museu-Nacional/imagens/Chale-hotel-github.gif)
 
+Upgrade barra de navegação:
+
+![Alt text](../../../../../C:/Users/Mateus%20de%20Lima%20Silva/Desktop/Museu-Nacional/imagens/Chale-hotel-github2.gif)
 
 
 
