@@ -13,3 +13,15 @@ Exemplos de novas tegs utilizadas: Header (cabeçalho), Nav (navegação), Foote
 Exemplo projeto finalizado:
 
 ![Screenshot_1](https://user-images.githubusercontent.com/89278014/200187908-0168fa93-6eee-40e9-a939-4cee5051287c.png)
+
+Upgrade!!
+
+Com ajuda das aulas anteriores resolvi fazer um upgrade para esse projeto, criei as demais abas disponíveis para ser clicadas
+na barra de navegação e o efeito de marcar as abas que estão selecionadas.
+
+Exemplos upgrade:
+
+
+
+
+
